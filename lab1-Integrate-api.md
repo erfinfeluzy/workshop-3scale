@@ -111,5 +111,5 @@ This workshop is based on 3Scale on premises, if you use one from 3Scale SaaS th
    You should get a auth error since Basic plan is unable to call types method.
 8. Register developer - Premium plan.  
    Register developer with Premium plan, same procedure with step #6. Note the user key.
-9. Call API through API Gateway with Basic application plan.  
+9. Call API through API Gateway with Premium application plan.  
    Call vocabularies and types methods with user key from Premium plan, you should be able to call both.
